@@ -3,4 +3,3 @@ print(a)
 b=int(input())
 print(b)
 print("You have no access to use edit this")
-
